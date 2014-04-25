@@ -296,7 +296,7 @@ SOURCES += src/qt/SHACoin.cpp src/qt/SHACoingui.cpp \
     src/qt/rpcconsole.cpp \
     src/noui.cpp \
     src/kernel.cpp \
-	src/pbkdf2.cpp \
+	src/pbkdf2.cpp
 
 RESOURCES += \
     src/qt/SHACoin.qrc
